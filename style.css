@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gif{
+    display: flex;
+    flex-direction: row;
+    padding: 19px;
+}
+button{
+    margin-right: 10px;
+    border: solid #fff;
+    cursor: pointer;
+}
+.fotos{
+    height: 10px;
+    width: 10px;
+}
